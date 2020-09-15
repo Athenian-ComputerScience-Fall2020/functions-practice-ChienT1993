@@ -14,7 +14,12 @@ def offer_food():
 def say_bye():
    print("Cheerio then.")
 
+def say_joke():
+    print("A cup of tea a day, keep your coffee away!")
 
-offer_drink()
+
 say_hi()
+offer_drink()
+say_joke()
 offer_food()
+say_bye()
