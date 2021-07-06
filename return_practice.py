@@ -19,7 +19,7 @@ output_num = math2()
 print(output_num)
 
 '''
-Add prediction(s) here:
+Add prediction(s) here: 45
 
 
 '''
